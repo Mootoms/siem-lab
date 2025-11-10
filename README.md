@@ -72,5 +72,6 @@ All of it supports the same goal: building a practical foundation for a future b
 
 ---
 
-**Live site:** [https://mootoms.github.io/siem-lab](https://mootoms.github.io/siem-lab)
+**Project repository:** [github.com/Mootoms/siem-lab](https://github.com/Mootoms/siem-lab)
+
 
